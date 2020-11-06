@@ -20,11 +20,9 @@ body {
 }
 
 .text {
-  margin-top: 50px;
   width: 85%;
   padding-top: 175px;
   text-align: center;
-  
 }
 
 #quote {
@@ -37,5 +35,5 @@ body {
   font-family: "Crimson Text", serif;
   font-size: 18px;
   font-style: italic;
-  margin-top: 60px; 
+  line-height: 100px;
 }
